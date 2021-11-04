@@ -81,7 +81,7 @@ def calcu(finalMarks):
 
 
 
-     
+
 print(calcu(csf))
 
 
